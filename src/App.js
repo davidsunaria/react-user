@@ -49,6 +49,7 @@ function App() {
   //var anyname="manpreet"
   return (
   	<div>
+      <h1>Main enter of the website</h1>
     <UpdateObj2/>
   </div>
    
